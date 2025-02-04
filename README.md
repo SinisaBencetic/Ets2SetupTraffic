@@ -6,4 +6,7 @@ Among other it:
 
 It requires prepared specific SCS files extracted from current game version in configured folder of choice on PC.
 User is then expected to create mod by him self using these files and activate it manually in game.
+
+Internal note:
+Check "ETS2 Izrada modova" for details of testing scenarios and results.
   
